@@ -1,0 +1,11 @@
+title: Jürgen Schmidt
+description: >-
+  Vapaasukeltaja ja jääkiipeilijä, joka pitää lokeista ja polkasta.
+theme: minima
+
+# Other optional configurations
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
